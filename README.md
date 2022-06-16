@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [linkedin.com/ilkerbora_nural](https://www.linkedin.com/in/ilkerboranurall/)
 - ⚡ Fun fact: PHP!
 
-![image]({[https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white]})
+![image](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=runhopes&show_icons=true&theme=gradient) 
