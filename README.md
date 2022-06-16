@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m computer engineer and full stack web developer ...
 - 🌱 I’m currently learning Java..
 - 👯 I’m looking to collaborate on JSP-Java
 - 💬 Ask me about Web Develope
