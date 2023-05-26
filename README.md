@@ -1,10 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m computer engineer and full stack web developer ...
-- 🌱 I’m currently learning Java..
-- 👯 I’m looking to collaborate on JSP-Java
-- 💬 Ask me about Web Develope
+- 🔭 I’m computer engineer and Full Stack Web Developer.
 - 📫 How to reach me: [linkedin.com/ilkerbora_nural](https://www.linkedin.com/in/ilkerboranurall/)
 - ⚡ Fun fact: PHP!
 
